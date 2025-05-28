@@ -9,6 +9,12 @@ body{
     overflow: hidden;
     background-color: black;
 }
+h1{
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
 span{
     background-image: url("./lovely\ heart.png");
     background-size: cover;
